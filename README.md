@@ -13,7 +13,7 @@
 
 ## 1. Γραμμικό Χρονικά Αμετάβλητο Σύστημα
 
-![Εικόνα 1](https://github.com/nickpotamianos/STATISTIKI_EPEKSERGASIA_SIMATWN/blob/main/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%97%201/image1.png)
+![Εικόνα 1]((https://github.com/nickpotamianos/Statistical_Signal_Processing/blob/main/EXERCISE%201/image1.png))
 
 **Εικόνα 1:** Η διαδικασία ταυτοποίησης γραμμικού χρονικά αμετάβλητου συστήματος.
 
@@ -108,7 +108,7 @@ $$
 
 Στο ερώτημα αυτό, μας ενδιαφέρει η περίπτωση στην οποία το σύστημα το οποίο επιθυμούμε να αναγνωρίσουμε είναι χρονικά μεταβαλλόμενο. Θα ασχοληθούμε με δύο διαφορετικές προσεγγίσεις. Στην πρώτη, θα πραγματοποιείται μία ομαλή μεταβολή του των συντελεστών του αγνώστου συστήματος, ενώ στην δεύτερη θα πραγματοποιείται μία πιο ακαριαία μεταβολή των συντελεστών του αγνώστου συστήματος.
 
-![Εικόνα 2](https://github.com/nickpotamianos/STATISTIKI_EPEKSERGASIA_SIMATWN/blob/main/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%97%201/image2.png)
+![Εικόνα 2]((https://github.com/nickpotamianos/Statistical_Signal_Processing/blob/main/EXERCISE%201/image2.png))
 
 **Εικόνα 2:** Η διαδικασία ταυτοποίησης γραμμικού χρονικά μεταβαλλόμενου συστήματος.
 
